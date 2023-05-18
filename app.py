@@ -1,3 +1,5 @@
+#This code returns Hello World on a localhost webpage.
+
 from flask import Flask
 
 app = Flask(__name__)
